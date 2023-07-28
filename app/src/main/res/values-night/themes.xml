@@ -16,4 +16,8 @@
         <item name="radioButtonStyle">@style/Widget.Tip_Calculator.CompoundButton.RadioButton</item>
         <item name="switchStyle">@style/Widget.Tip_Calculator.CompoundButton.Switch</item>
     </style>
+    <style name="Secondary.Theme.Tip_Calculator" parent="Base.Theme.Tip_Calculator">
+        <item name="colorPrimary">@color/purple_200</item>
+    </style>
+
 </resources>
